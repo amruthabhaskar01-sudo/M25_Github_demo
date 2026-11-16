@@ -1,1 +1,98 @@
-modify
+TASK 1
+
+--> Create a repository
+
+1) Create a folder named GitPractice
+2) Open the folder in terminal
+3) Initialize the git repository
+4) Check status
+
+
+--> Create files
+
+1) Create the following files:
+
+student.txt
+marks.txt
+demo.py
+
+2) Check the repository status
+
+
+--> Stage the files
+
+1) Stage only student.txt
+2) Check status
+3) Stage the remaining files
+4) Check status again
+
+
+
+--> First commit and check status
+
+
+
+--> Modify files
+
+1) Add your name to student.txt
+2) Add any marks to marks.txt
+3) Save
+4) Check status
+
+
+--> check log
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a folder named EmployeeDetails and perform the following Git operations
+
+1) Initialize it as a Git repository
+2) Create 3 files:
+    salary.txt
+    details.txt
+    performance.txt
+3) Check the repository status
+4) Stage only salary.txt
+5) Check status again
+6) Stage the remaining files
+7) Commit all changes with a message
+8) Modify detail.txt file by adding some data
+9) Check the repository status
+10) Stage only performance.txt
+11) Commit the updates
+12) Display the commit historyt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
